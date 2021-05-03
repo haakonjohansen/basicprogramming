@@ -1,0 +1,12 @@
+programming languages are read by something called a lexer. A lexer is a special type of program that reads patterns of text to make
+sense of what you are typing when doing programming. 
+
+identifier 	x, color, UP
+keyword 	if, while, return
+separator 	}, (, ;
+operator 	+, <, =
+literal 	true,false, 6.02e23,4,"this is a string"
+comment 	/* multiple-line comment */, //single-line comment
+
+Computers only understand 0 and 1. So when we type characters it's only describing how we are going to control the 0 and 1 sequences.
+If you were creating your own lexer, you could have changed the tokens how ever you want
