@@ -1,0 +1,8 @@
+
+
+double: holds a decimal number similliar to float but is larger in bytes
+float: number that holds a decimal number also called a floating-point number.
+int: whole number
+primitive-types ( primitive:first): the keywords that is part of the language by default.
+secondary-types: the keywords that are created by the primitive-types
+type: ( in programming ):something that describes data and has various properties
